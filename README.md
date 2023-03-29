@@ -12,3 +12,8 @@ void    ft_leaks(void)
 
 
 curl -fsSL https://raw.githubusercontent.com/bazuara/42madrid_homebrew_sgoinfre/master/install.sh | zsh
+
+
+
+
+valgrind --leak-check=full ./a.out
