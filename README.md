@@ -17,3 +17,7 @@ curl -fsSL https://raw.githubusercontent.com/bazuara/42madrid_homebrew_sgoinfre/
 
 
 valgrind --leak-check=full ./a.out
+
+
+
+take a look: https://github.com/dawnbeen/c_formatter_42
